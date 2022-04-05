@@ -163,7 +163,7 @@ head(adv)
 head(adv2)
 
 # wenker by tsv
-wen <- read.table(file.path(org,"alle_wenkerorte.txt"),sep="\t",fileEncoding = "utf-8",header = T)
+wen <- read.csv(file.path(org,"alle_wenkerorte.txt"),encoding = "UTF-8",sep="\t",header = T)
 head(wen)
 which(colnames(wen)=="rede_name") 
 names(wen)[3] <-"ort"
