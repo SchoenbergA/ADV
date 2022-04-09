@@ -1,4 +1,4 @@
-### Extract Coordinates by "Ortsname" match
+### ADV Level 1 - automated detection by matching "ortsnamen"
 
 # load packages
 require(openxlsx)
@@ -157,11 +157,11 @@ maskh <- spTransform(mhe_wgs,CRS("+init=epsg:25832"))
 adv <-openxlsx::read.xlsx(xlsxFile =file.path(org,"ADV_Ortstabelle_Hessen.xlsx"))
 
 # load ADV corrected table
-adv2<-read.csv(file.path(org,"ADV_mod_cor.csv"))
+adv2<-read.csv(file.path(org,"003_ADV_final_clean.csv"))
 
 head(adv)
 head(adv2)
-
+adv2$Ortsname_cor # edit 9.4.22 # tailing whitespaces detected. may be caused lesser detected names
 # wenker by tsv
 wen <- read.csv(file.path(org,"alle_wenkerorte.txt"),encoding = "UTF-8",sep="\t",header = T)
 head(wen)
@@ -254,8 +254,8 @@ mapview(all_sp_c1,zcol="Teilquadrant")
 # output
 
 # write full data table
-write.csv(all_rest1,file.path(out,"ADV_Georef_Results_final.csv"))
+write.csv(all_rest1,file.path(out,"ADV_automatch_level_1.csv"))
 
 # write shp for spatial validation
-writeOGR(all_sp_c1,file.path(out,"ADV_Points_v1.shp"),driver="ESRI Shapefile",layer="ADV_Points_v1.shp")
+writeOGR(all_sp_c1,file.path(out,"ADV_Points_level_1.shp"),driver="ESRI Shapefile",layer="ADV_Points_level_1")
 writeOGR(wenutm,file.path(out,"Wenker_Places_tsv_utm.shp"),driver="ESRI Shapefile",layer="Wenker_Places_tsv_utm")

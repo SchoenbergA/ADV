@@ -1,3 +1,4 @@
+### ADV Level 2 - add found places (previously multiple and no unique) 
 
 # load packages
 require(openxlsx)
@@ -13,8 +14,8 @@ out <- file.path(wd,"Data/output")
 map <- file.path(wd,"Data/MapDATA")
 
 # load datasets
-res1 <-read.csv(file.path(out,"ADV_Georef_Results_final.csv"))
-res2 <-read.csv(file.path(out,"ADV_test.csv"))
+res1 <-read.csv(file.path(out,"Level_1/ADV_automatch_level_1.csv"))
+res2 <-read.csv(file.path(out,"Level_2/ADV_level_1_corrections_clean.csv"))
 
 # check
 head(res1)
@@ -38,7 +39,7 @@ res3$x_new <- res2$x
 res3$y_new <- res2$y
 res3$cor <- res2$new_res
 
-# one entrie has corrupted data
+# one entire has far too long x coordinate 
 which(res3$x_new==max(res3$x_new))
 res3[254,]
 res3$x_new[254] <- 999
@@ -47,15 +48,15 @@ res3$cor[254] <- "corrupted"
 
 res3[254,]
 
-# 3 entrie have x == y coordinates
+# 3 entires have x == y coordinates
 which(res3$x_new==res3$y_new)
 which(res3$x_new==res3$y_new & res3$x_new!=999)
 
-res3[c(505,802,907),]
+res3[c(284, 301, 318),]
 
-res3$x_new[c(505,802,907)] <-999
-res3$y_new[c(505,802,907)] <-999
-res3$cor[c(505,802,907)] <- "corrupted"
+res3$x_new[c(284, 301, 318)] <-999
+res3$y_new[c(284, 301, 318)] <-999
+res3$cor[c(284, 301, 318)] <- "corrupted"
 # reorder columns change colnames
 head(res3)
 
@@ -66,16 +67,27 @@ colnames(res3)[14] <- "comment"
 
 res3 <-res3[order(res3$ID),]
 
-# clean up flase detected
+# clean up false detected
 which(res3$cor=="false detected")
 res3$x_new[which(res3$cor=="false detected")] <-999
 res3$y_new[which(res3$cor=="false detected")] <-999
-# to shp
+
+# clip unused second ID col
+res3 <-res3[,2:ncol(res3)]
+
+head(res3)
+
+# write data table
+write.csv(res3,file.path(out,"Level_2/ADV_level_2.csv"))
+
+
 # get spatial object from table
 names(res3)
-names(res3[,22:23])
-all_sp1 <- SpatialPointsDataFrame(res3[,22:23],res3)
+names(res3[,21:22])
+all_sp1 <- SpatialPointsDataFrame(res3[,21:22],res3)
 any(all_sp1$x==999)
+length(which(all_sp1$x==999))
+
 # delete rows without coordinates
 all_sp_c1 <-subset(all_sp1,all_sp1$x_new!=999)
 #set proj
@@ -83,17 +95,17 @@ proj4string(all_sp_c1) <- "+proj=utm +zone=32 +ellps=GRS80 +towgs84=0,0,0,0,0,0,
 
 # plot validation by quandrant or teilquad
 mapview(all_sp_c1,zcol="Quadrant")
-mapview(all_sp_c1,zcol="Teilquadrant")
 
 # check if shp is equal in lentgh than detected
 length(all_sp_c1)
 length(which(res3$x_new!=999))
-length(which(res3$res=="detected"))
+length(which(res1$res=="detected"))
 
 # detected check
 1085/1270
 length(which(res1$res=="detected"))/1270
 
 # write shp for spatial validation
-writeOGR(all_sp_c1,file.path(out,"ADV_Points_Level_2.shp"),driver="ESRI Shapefile",layer="ADV_Points_l2.shp")
+writeOGR(all_sp_c1,file.path(out,"Level_2/ADV_Points_Level_2.shp"),driver="ESRI Shapefile",layer="ADV_Points_l2.shp")
 
+head(res3)

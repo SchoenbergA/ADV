@@ -1,0 +1,177 @@
+﻿,Quadrant,Teilquadrant,Ortsnummer,Ortsbuchstaben,Ortsname,Kreis,Land,I,II,III,IV,X12,RES_1st_run,Ortsname_old,Stadt.oder.Gemeinde.oder.Landkreis,x,y,res,Cor.Kammers
+34,111,10,20,ao,Mengeringhausen,der Twiste,Hessen-Nassau,j,j,j,j,NA,not detected,Mengeringhausen,Bad Arolsen,499254.55,5690553.40,not detected,f
+88,111,33,9,b,Frankenberg,Frankenberg,Hessen-Nassau,j,j,j,j,NA,not detected,Frankenberg,Eder,486289.65,5656194.75,not detected,f
+92,111,34,18,br,Halgehausen,Frankenberg,Hessen-Nassau,j,j,j,j,NA,not detected,Halgehausen,Haina,495781.30,5653084.47,not detected,f
+114,112,4,3,b,Klostergut Reinshof,Göttingen,Hannover,j,j,NA,NA,NA,not detected,Reinshof,Friedland,564579.85,5705491.61,not detected,f
+123,112,5,2,cr,Benniehausen,Göttingen,Hannover,j,j,j,j,NA,not detected,Benniehausen,Gleichen,572996.60,5704579.44,not detected,f
+129,112,5,19,da,Weißenborn,Göttingen,Hannover,j,j,j,j,NA,not detected,Weißenborn,Gleichen,578360.92,5699388.34,not detected,f
+133,112,6,3,bl,Gerblingerode,Duderstadt,Hannover,j,j,j,j,NA,not detected,Gerblingerode,Duderstadt,587832.16,5705505.49,not detected,f
+134,112,6,5,cl,Wehnde,Worbis,Pr. Sachsen,j,j,j,j,NA,not detected,Wehnde,Eichsfeld,591104.68,5704176.04,not detected,f
+135,112,6,9,dr,Tastungen,Worbis,Pr. Sachsen,j,j,j,j,NA,not detected,Tastungen,Eichsfeld,590983.20,5702674.86,not detected,f
+155,112,10,8,br,Niedergandern,Göttingen,Hannover,j,j,j,j,NA,not detected,Niedergandern,Friedland,565200.36,5694063.11,not detected,f
+159,112,11,3,ao,Streitholz,Heiligenstadt,Pr. Sachsen,j,j,j,j,NA,not detected,Streitholz,Hohes Kreuz,575875.64,5696494.94,not detected,f
+160,112,11,3,du,Mengelrode,Heiligenstadt,Pr. Sachsen,j,j,j,j,NA,not detected,Mengelrode,Hohes Kreuz,576548.27,5694903.92,not detected,f
+162,112,11,13,bl,Rengelrode,Heiligenstadt,Pr. Sachsen,j,j,j,j,NA,not detected,Rengelrode,Heilbad Heiligenstadt,576060.36,5692611.07,not detected,f
+164,112,11,18,al,Uder,Heiligenstadt,Pr. Sachsen,j,j,j,j,NA,not detected,Uder,Eichsfeld,574798.59,5690703.65,not detected,f
+166,112,12,6,b,Bodenrode-Westhausen,Heiligenstadt,Pr. Sachsen,j,j,j,j,NA,not detected,Bodenrode-Westhausen,Eichsfeld,582837.69,5694181.84,not detected,f
+167,112,12,7,ao,Bodenrode,Worbis,Pr. Sachsen,j,NA,j,j,NA,not detected,Bodenrode,Bodenrode-Westhausen,584199.03,5694546.77,not detected,f
+168,112,12,7,br,Wingerode,Worbis,Pr. Sachsen,j,j,j,j,NA,not detected,Wingerode,Eichsfeld,586325.61,5693914.95,not detected,f
+169,112,12,10,co,Leinefelde-Worbis,Worbis,Pr. Sachsen,j,j,j,j,NA,not detected,Leinefelde-Worbis,Eichsfeld,592545.20,5695942.32,not detected,f
+178,112,15,5,cl,Roßbach,Witzenhausen,Hessen-Nassau,NA,j,NA,NA,NA,not detected,Roßbach,Witzenhausen,556399.57,5685191.67,not detected,f
+181,112,15,24,au,Großalmerode,Witzenhausen,Hessen-Nassau,j,j,j,j,NA,not detected,Großalmerode,Werra-Meißner,554846.03,5678892.64,not detected,f
+182,112,16,3,a,Werleshausen,Heiligenstadt,Pr. Sachsen,j,NA,j,j,NA,not detected,Werleshausen,Witzenhausen,563870.71,5686473.21,not detected,f
+185,112,16,14,br,Wahlhausen,Heiligenstadt,Pr. Sachsen,j,j,j,j,NA,not detected,Wahlhausen,Eichsfeld,568268.53,5682967.52,not detected,f
+191,112,17,24,ab,Lehna,Heiligenstadt,Pr. Sachsen,j,j,j,j,NA,not detected,Lehna,Schimberg,578621.08,5679770.32,not detected,f
+195,112,18,22,cu,Großbartloff,Heiligenstadt,Pr. Sachsen,j,j,j,j,NA,not detected,Großbartloff,Eichsfeld,584677.48,5678345.58,not detected,f
+202,112,20,22,a,Empfershausen,Melsungen,Hessen-Nassau,j,j,j,j,NA,not detected,Empfershausen,Körle,538265.60,5670239.10,not detected,f
+211,112,23,9,br,Großtöpfer,Heiligenstadt,Pr. Sachsen,j,j,NA,NA,NA,not detected,Großtöpfer,Eichsfeld,580071.63,5675812.75,not detected,f
+215,112,24,9,do,Struth,Mühlhausen,Pr. Sachsen,j,j,j,j,NA,not detected,Struth,Rodeberg,590959.90,5675423.83,not detected,f
+224,112,26,22,al,Malsfeld,Melsungen,Hessen-Nassau,j,j,j,j,NA,not detected,Malsfeld,Schwalm-Eder,537669.59,5660139.47,not detected,f
+231,112,29,14,au,Weißenborn,Eschwege,Hessen-Nassau,j,j,j,j,NA,not detected,Weißenborn,Werra-Meißner,578084.85,5664323.99,not detected,f
+235,112,30,6,c,Großburschla,Mühlhausen,Pr. Sachsen,j,j,j,j,NA,not detected,Großburschla,Treffurt,582003.77,5665679.15,not detected,f
+274,124,27,6,al,Lautzert,Neuwied,Rheinprovinz,j,j,NA,NA,NA,not detected,Lautzert,Oberdreis,405566.78,5611070.86,not detected,f
+277,124,27,16,c,Roßbach,Oberwesterwaldkreis,Hessen-Nassau,j,j,j,j,NA,not detected,Roßbach,Westerwald,406700.30,5606754.84,not detected,f
+279,124,28,4,cu,Bad Marienberg,Oberwesterwaldkreis,Hessen-Nassau,j,j,j,j,NA,not detected,Bad Marienberg,Westerwald,425505.19,5611761.79,not detected,f
+288,124,29,12,al,Neustadt,Oberwesterwaldkreis,Hessen-Nassau,j,j,j,NA,NA,not detected,Neustadt,Westerwald,432252.86,5608904.11,not detected,f
+309,124,35,11,c,Berzhahn,Oberwesterwaldkreis,Hessen-Nassau,j,j,j,NA,NA,not detected,Berzhahn,Westerwald,429437.06,5598886.43,not detected,f
+322,125,2,3,d,Holzhausen,Biedenkopf,Hessen-Nassau,j,j,j,j,NA,not detected,Holzhausen,Hatzfeld,472024.40,5648692.48,not detected,f
+369,125,14,24,d,Nanzhausen,Marburg,Hessen-Nassau,j,j,j,j,NA,not detected,Nanzhausen,Lohra,474229.77,5622186.31,not detected,f
+388,125,18,8,au,Heidelbach,Alsfeld,Hessen,j,j,j,j,NA,not detected,Heidelbach,Alsfeld,518131.60,5628449.77,not detected,f
+398,125,20,8,dr,Rollshausen,Marburg,Hessen-Nassau,NA,j,j,NA,NA,not detected,Rollshausen,Lohra,472150.15,5618496.50,not detected,f
+407,125,21,25,a,Allendorf,Gießen,Hessen,j,j,j,j,NA,not detected,Allendorf,Lumda,487490.75,5614008.40,not detected,f
+411,125,22,19,b,Schadenbach,Alsfeld,Hessen,j,j,j,NA,NA,not detected,Schadenbach,Homberg,497952.33,5616033.75,not detected,f
+416,125,23,16,al,Büßfeld,Alsfeld,Hessen,j,NA,NA,NA,NA,not detected,Büßfeld,Homberg,500062.69,5615957.60,not detected,f
+423,125,24,18,cl,Strebendorf,Alsfeld,Hessen,j,j,j,j,NA,not detected,Strebendorf,Romrod,517154.01,5615031.96,not detected,f
+438,125,27,6,c,Wißmar,Wetzlar,Hessen-Nassau,NA,j,j,j,NA,not detected,Wißmar,Wettenberg,477041.38,5609393.83,not detected,f
+443,125,27,18,au,Trohe,Gießen,Hessen,j,j,j,j,NA,not detected,Trohe,Buseck,482585.77,5606465.47,not detected,f
+445,125,27,19,co,Großen-Buseck,Gießen,Hessen,j,j,j,j,NA,not detected,Großen-Buseck,Buseck,484812.08,5605975.92,not detected,f
+485,125,32,20,a,Großen-Linden,Gießen,Hessen,j,j,NA,NA,NA,not detected,Linden,Gießen,475496.17,5597271.46,not detected,f
+517,126,1,17,c,Großropperhausen,Ziegenhain,Hessen-Nassau,NA,NA,j,NA,NA,not detected,Großropperhausen,Frielendorf,525993.45,5643093.09,not detected,f
+519,126,2,1,br,Nenterode,Rotenburg,Hessen-Nassau,j,NA,NA,NA,NA,not detected,Nenterode,Knüllwald,537419.02,5649030.99,not detected,f
+525,126,4,4,d,Süß,Rotenburg,Hessen-Nassau,NA,NA,j,j,NA,not detected,Süß,Nentershausen,568242.44,5649008.27,not detected,f
+530,126,5,17,do,Berka,Eisenach,Thüringen,NA,NA,NA,j,NA,not detected,Berka,Werra-Suhl-Tal,575465.41,5643822.91,not detected,f
+544,126,8,18,co,Goßmannsrode,Hersfeld,Hessen-Nassau,j,j,j,j,NA,not detected,Goßmannsrode,Kirchheim,540854.81,5634229.81,not detected,f
+545,126,9,11,b,Kalkobes,Hersfeld,Hessen-Nassau,NA,j,j,j,NA,not detected,Kalkobes,Bad Hersfeld,548014.47,5636760.92,not detected,f
+552,126,11,21,au,Philippsthal,Hersfeld,Hessen-Nassau,j,j,j,j,NA,not detected,Philippsthal,Hersfeld-Rotenburg,570417.59,5632708.71,not detected,f
+558,126,12,13,ar,Kupfersuhl,Eisenach,Thüringen,j,j,j,j,NA,not detected,Kupfersuhl,Bad Salzungen,588315.97,5637161.54,not detected,f
+565,126,13,25,cu,Wallersdorf,Alsfeld,Hessen,NA,j,j,NA,NA,not detected,Wallersdorf,Grebenau,534321.34,5622244.33,not detected,f
+578,126,18,1,c,Kaiseroda,Eisenach,Thüringen,j,j,j,j,NA,not detected,Kaiseroda,Leimbach,583190.56,5630534.77,not detected,f
+582,126,18,12,d,Kaltenborn,Meiningen,Thüringen,j,j,j,j,NA,not detected,Kaltenborn,Bad Salzungen,586737.57,5626602.67,not detected,f
+596,126,22,1,bu,Großentaft,Hünfeld,Hessen-Nassau,j,j,j,j,NA,not detected,Großentaft,Eiterfeld,560635.11,5621571.35,not detected,f
+599,126,23,1,do,Otzbach,Eisenach,Thüringen,j,j,j,j,NA,not detected,Otzbach,Geisa,572480.07,5621395.11,not detected,f
+600,126,23,2,b,Oechsen,Eisenach,Thüringen,j,j,j,j,NA,not detected,Oechsen,Dermbach,575142.42,5621948.57,not detected,f
+601,126,23,11,cd,Zitters,Eisenach,Thüringen,j,j,j,j,NA,not detected,Zitters,Schleid,571774.57,5616970.18,not detected,f
+604,126,24,1,c,Urnshausen,Eisenach,Thüringen,j,j,j,j,NA,not detected,Urnshausen,Dermbach,582840.26,5620967.06,not detected,f
+611,126,25,6,co,Sickendorf,Lauterbach,Hessen,j,j,NA,j,NA,not detected,Sickendorf,Lauterbach,524400.49,5609531.11,not detected,f
+612,126,25,7,d,Lauterbach,Lauterbach,Hessen,NA,j,NA,NA,NA,not detected,Lauterbach,Vogelsbergkreis,528006.58,5609135.96,not detected,f
+613,126,25,12,d,Blitzenrod,Lauterbach,Hessen,j,j,j,j,NA,not detected,Blitzenrod,Lauterbach,527885.22,5607823.50,not detected,f
+619,126,26,22,c,Großenlüder,Fulda,Hessen-Nassau,NA,NA,j,j,NA,not detected,Großenlüder,Fulda,538292.06,5604323.33,not detected,f
+623,126,28,6,bo,Mittelaschenbach,Hünfeld,Hessen-Nassau,NA,NA,NA,j,NA,not detected,Mittelaschenbach,Nüsttal,560684.47,5610837.71,not detected,f
+629,126,29,9,a,Klings,Eisenach,Thüringen,j,j,j,j,NA,not detected,Klings,Kaltennordheim,578761.53,5611414.22,not detected,f
+648,126,31,23,b,Zahmen,Lauterbach,Hessen,j,j,j,j,NA,not detected,Zahmen,Grebenhain,530730.05,5595766.46,not detected,f
+654,126,33,12,ar,Bachrain,Fulda,Hessen-Nassau,j,j,j,j,NA,not detected,Bachrain,Künzell,550204.93,5598721.42,not detected,f
+656,126,34,11,d,Wolferts,Fulda,Hessen-Nassau,NA,NA,j,NA,NA,not detected,Wolferts,Dipperz,561072.66,5598737.23,not detected,f
+666,138,2,6,au,Oberbieber,Neuwied,Rheinprovinz,j,j,j,NA,NA,not detected,Oberbieber,Neuwied,393469.62,5592302.94,not detected,f
+667,138,2,8,ab,Isenburg,Neuwied,Rheinprovinz,j,NA,j,j,NA,not detected,Isenburg,Neuwied,400150.85,5592580.36,not detected,f
+668,138,2,11,bl,Gladbach,Neuwied,Rheinprovinz,j,j,j,j,NA,not detected,Gladbach,Neuwied,395251.35,5590637.24,not detected,f
+671,138,2,17,a,Heimbach-Weis,Neuwied,Rheinprovinz,NA,NA,j,j,NA,not detected,Heimbach-Weis,Neuwied,396685.69,5589593.55,not detected,f
+672,138,2,22,ac,Engers,Neuwied,Rheinprovinz,j,j,j,j,NA,not detected,Engers,Neuwied,396651.84,5586990.92,not detected,f
+679,138,4,17,br,Kleinholbach,Unterwesterwaldkreis,Hessen-Nassau,j,j,j,j,NA,not detected,Kleinholbach,Girod,422231.37,5588730.07,not detected,f
+704,138,11,6,cl,Aull,Unterlahnkreis,Hessen-Nassau,j,j,j,j,NA,not detected,Aull,Rhein-Lahn,429287.99,5582089.02,not detected,f
+723,138,16,18,b,Herold,Unterlahnkreis,Hessen-Nassau,j,j,j,j,NA,not detected,Herold,Rhein-Lahn,423928.24,5570012.75,not detected,f
+724,138,16,19,bd,Klingelbach,Unterlahnkreis,Hessen-Nassau,j,j,j,j,NA,not detected,Klingelbach,Rhein-Lahn,426637.87,5569774.62,not detected,f
+733,138,21,3,b,Niederbachheim,St. Goarshausen,Hessen-Nassau,j,j,j,j,NA,not detected,Niederbachheim,Rhein-Lahn,411926.05,5566956.43,not detected,f
+737,138,21,21,do,Wellmich,St. Goarshausen,Hessen-Nassau,j,j,j,NA,NA,not detected,Wellmich,Sankt Goarshausen,406640.92,5558506.29,not detected,f
+750,138,27,2,cu,Sankt Goar,St. Goar,Rheinprovinz,j,j,NA,NA,NA,not detected,St. Goar,Rhein-Hunsrück,407555.09,5555909.47,not detected,f
+759,138,27,22,ao,Engehöll,St. Goar,Rheinprovinz,j,j,j,NA,NA,not detected,Engehöll,Oberwesel,407859.19,5550073.57,not detected,f
+769,138,30,13,dr,Wiesbaden-Rambach,Wiesbaden,Hessen-Nassau,j,j,j,j,NA,not detected,Rambach,Wiesbaden,448097.07,5551737.14,not detected,f
+770,138,30,19,b,Wiesbaden-Heßloch,Wiesbaden,Hessen-Nassau,j,j,j,NA,NA,not detected,Heßloch,Wiesbaden,449617.35,5551173.72,not detected,f
+775,138,33,14,co,Rheindiebach,St. Goar,Rheinprovinz,j,j,NA,NA,NA,not detected,Rheindiebach,Oberdiebach,413334.33,5543959.54,not detected,f
+810,139,3,14,ar,Trais,Friedberg,Hessen,j,j,j,j,NA,not detected,Trais-Münzenberg,Münzenberg,484998.53,5590214.82,not detected,f
+819,139,4,9,c,Langd,Gießen,Hessen,j,j,j,j,NA,not detected,Landgd,Hungen,496373.89,5591002.63,not detected,f
+823,139,4,23,a,Unter-Widdersheim,Büdingen,Hessen,j,j,j,j,NA,not detected,Unter-Widdersheim,Nidda,494142.22,5586385.50,not detected,f
+831,139,6,7,dl,Kaulstoß,Schotten,Hessen,j,j,j,j,NA,not detected,Kaulstoß,Schotten,515873.53,5590945.37,not detected,f
+844,139,8,24,au,Friedrichsthal,Usingen,Hessen-Nassau,j,j,j,j,NA,not detected,Friedrichsthal,Wehrheim,472727.67,5576655.04,not detected,f
+852,139,9,23,cd,Friedberg,Friedberg,Hessen,j,j,j,j,NA,not detected,Friedberg,Wetterau,482284.74,5575447.08,not detected,f
+855,139,10,4,d,Geiß-Nidda,Büdingen,Hessen,j,j,j,j,NA,not detected,Geiß-Nidda,Nidda,497790.35,5583661.15,not detected,f
+861,139,10,17,c,Reichelsheim,Friedberg,Hessen,j,NA,j,j,NA,not detected,Reichelsheim,Wetterau,491033.91,5578521.11,not detected,f
+878,139,12,13,br,Böß-Gesäß,Büdingen,Hessen,j,NA,NA,NA,NA,not detected,Bös-Gesäß,Birstein,519070.87,5580528.61,not detected,f
+884,139,12,25,cr,Untersotzbach,Gelnhausen,Hessen-Nassau,j,j,j,j,NA,not detected,Untersotzbach,Birstein,523020.37,5576323.51,not detected,f
+890,139,14,11,ac,Neu-Anspach,Usingen,Hessen-Nassau,j,j,j,j,NA,not detected,Anspach,Neu-Anspach,465092.48,5571440.08,not detected,f
+903,139,16,18,du,Höchst an der Nidder,Büdingen,Hessen,j,j,j,j,NA,not detected,Höchst,Altenstadt,465092.48,5571440.08,not detected,f
+917,139,17,21,al,Himbach,Büdingen,Hessen,j,j,j,j,NA,not detected,Himbach,Limeshain,499787.77,5567586.99,not detected,f
+942,139,21,18,cu,Bad-Vilbel,Friedberg,Hessen,j,j,j,j,NA,not detected,Bad Vilbel,Wetterau,481400.05,5558936.41,not detected,f
+968,139,26,12,d,Frankfurt-Sossenheim,Frankfurt a. M.,Hessen-Nassau,j,j,j,NA,NA,not detected,Frankfurt-Sossenheim,Frankfurt,469412.35,5552514.41,not detected,f
+971,139,28,18,ao,Klein-Steinheim,Offenbach,Hessen,j,j,j,j,NA,not detected,Steinheim,Hanau,493428.86,5551296.38,not detected,f
+973,139,28,19,cl,Großauheim,Offenbach,Hessen,j,j,j,j,NA,not detected,Großauheim,Hanau,496506.73,5550202.41,not detected,f
+974,139,28,21,bl,Lämmerspiel,Offenbach,Hessen,NA,j,j,j,NA,not detected,Lämmerspiel,Mühlheim am Main,489556.80,5549432.02,not detected,f
+975,139,29,3,bl,Neuenhaßlau,Gelnhausen,Hessen-Nassau,j,j,j,j,NA,not detected,Neuenhaßlau,Hasselroth,506288.32,5556625.65,not detected,f
+980,139,30,1,bl,Großenhausen,Gelnhausen,Hessen-Nassau,j,j,NA,NA,NA,not detected,Großenhausen,Linsengericht,513687.41,5556593.21,not detected,f
+991,139,32,1,ab,Frankfurt-Sindlingen,Frankfurt a. M.,Hessen-Nassau,j,j,NA,NA,NA,not detected,Sindlingen,Frankfurt,464900.65,5547666.79,not detected,f
+999,139,34,5,al,Großkrotzenburg,Hanau,Hessen-Nassau,j,j,j,j,NA,not detected,Großkrotzenburg,Main-Kinzig,498852.68,5547727.60,not detected,f
+1005,139,35,11,a,Großwelzheim,BA. Alzenau,RegBez. Unterfranken (Bayern),NA,NA,NA,j,NA,not detected,Großwelzheim,Karlstein am Main,500583.02,5544065.85,not detected,f
+1016,140,1,13,bl,Reichlos,Lauterbach,Hessen,j,j,j,NA,NA,not detected,Reichlos,Freiensteinau,530430.98,5589896.00,not detected,f
+1024,140,4,1,dr,Poppenhausen,Fulda,Hessen-Nassau,j,j,j,NA,NA,not detected,Poppenhausen,Fulda,561476.51,5593326.69,not detected,f
+1040,140,14,1,al,Niederzell,Schlüchtern,Hessen-Nassau,j,j,j,NA,NA,not detected,Niederzell,Schlüchtern,536202.69,5575587.66,not detected,f
+1043,140,14,21,ac,Marjoß,Schlüchtern,Hessen-Nassau,j,j,j,j,NA,not detected,Marjoß,Steinau an der Straße,536764.57,5567427.29,not detected,f
+1049,140,19,15,c,Burgjoß,Gelnhausen,Hessen-Nassau,NA,NA,NA,j,NA,not detected,Burgjoß,Jossgrund,534314.16,5561517.89,not detected,f
+1056,151,1,11,a,Ginsheim-Gustavsburg,Mainz,Hessen,j,j,j,j,NA,not detected,Ginsheim-Gustavsburg,Groß-Gerau,451406.76,5538078.67,not detected,f
+1063,151,3,1,co,Langen,Offenbach,Hessen,j,j,j,j,NA,not detected,Langen,Offenbach,475872.67,5537736.17,not detected,f
+1089,151,8,20,au,Darmstadt-Bessungen,Darmstadt,Hessen,j,j,j,j,NA,not detected,Darmstadt-Bessungen,Darmstadt,475205.29,5522931.40,not detected,f
+1092,151,9,18,do,Roßdorf,Darmstadt,Hessen,j,j,j,j,NA,not detected,Roßdorf,Darmstadt-Dieburg,482204.05,5523035.18,not detected,f
+1094,151,9,24,au,Zeilhard,Dieburg,Hessen,j,j,j,j,NA,not detected,Zeilhard,Reinheim,485002.59,5521528.90,not detected,f
+1100,151,10,11,co,Groß-Zimmern,Dieburg,Hessen,j,j,j,j,NA,not detected,Groß-Zimmern,Darmstadt-Dieburg,487528.14,5524743.80,not detected,f
+1102,151,10,13,du,Groß-Umstadt,Dieburg,Hessen,NA,j,j,j,NA,not detected,Groß-Umstadt,Darmstadt-Dieburg,494707.14,5524196.57,not detected,f
+1108,151,11,15,ar,Großwallstadt,BA. Obernburg,RegBez. Unterfranken (Bayern),j,j,j,j,NA,not detected,Großwallstadt,Miltenberg,511218.55,5525216.78,not detected,f
+1111,151,11,21,bl,Wald-Amorbach,Erbach,Hessen,j,j,j,j,NA,not detected,Wald-Amorbach,Breuberg,501716.33,5521734.18,not detected,f
+1130,151,15,9,co,Wembach-Hahn,Dieburg,Hessen,j,j,j,j,NA,not detected,Wembach-Hahn,Ober-Ramstadt,484500.03,5517073.94,not detected,f
+1131,151,15,10,cu,Groß-Bieberau,Dieburg,Hessen,j,j,j,j,NA,not detected,Groß-Bieberau,Darmstadt-Dieburg,487317.75,5516462.02,not detected,f
+1146,151,16,25,bu,Etzen-Gesäß,Erbach,Hessen,j,NA,NA,NA,NA,not detected,Etzen-Gesäß,Bad König,499564.83,5511962.49,not detected,f
+1148,151,17,2,cu,Neustadt,Erbach,Hessen,j,j,j,NA,NA,not detected,Neustadt,Breuberg,502811.20,5518056.53,not detected,f
+1163,151,20,7,cu,Langwaden,Bensheim,Hessen,j,j,j,j,NA,not detected,Langwaden,Bensheim,467665.12,5507397.01,not detected,f
+1175,151,21,17,bl,Knoden,Bensheim,Hessen,NA,j,j,j,NA,not detected,Knoden,Lautertal,479807.37,5504666.73,not detected,f
+1182,151,22,9,c,Langen-Brombach,Erbach,Hessen,j,NA,NA,NA,NA,not detected,Langen-Brombach,Brombachtal,496602.98,5507846.01,not detected,f
+1183,151,22,11,a,Reichelsheim,Friedberg,Hessen,NA,j,NA,NA,NA,not detected,Reichelsheim,Wetterau,419033.91,5578521.11,not detected,f
+1191,151,23,12,c,Weiten-Gesäß,Erbach,Hessen,j,j,j,j,NA,not detected,Weiten-Gesäß,Michelstadt,503381.66,5505777.35,not detected,f
+1209,151,27,12,b,Albersbach,Heppenheim,Hessen,j,NA,NA,NA,NA,not detected,Albersbach,Rimbach,480324.97,5497223.15,not detected,f
+1211,151,27,18,d,Zotzenbach,Heppenheim,Hessen,NA,NA,NA,j,NA,not detected,Zotzenbach,Rimbach,483156.75,5494490.06,not detected,f
+1214,151,27,23,d,Weiher,Heppenheim,Hessen,j,j,j,j,NA,not detected,Weiher,Mörlenbach,482927.04,5492804.24,not detected,f
+1232,151,30,15,a,Gerolzahn,AB. Buchen,Baden,j,NA,NA,NA,NA,not detected,Gerolzahn,Walldürn,523062.90,5496973.95,not detected,f
+1236,151,31,7,c,Mörsch,BA. Frankenthal,RegBez. Pfalz (Bayern),j,j,NA,NA,NA,not detected,Mörsch,Frankenthal,455100.32,5488933.16,not detected,f
+1237,151,31,11,d,Frankenthal,NA,RegBez. Pfalz (Bayern),j,NA,j,j,"Kreis nicht angegeben, vermutlich aber Frankenthal",not detected,Frankenthal,Pfalz,453411.07,5487432.12,not detected,f
+1247,151,33,12,co,Gorxheim,Heppenheim,Hessen,NA,j,NA,NA,NA,not detected,Gorxheim,Gorxheimertal,478986.49,5487426.83,not detected,f
+1248,151,33,12,du,Unter-Flockenbach,Heppenheim,Hessen,NA,j,j,j,NA,not detected,Unter-Flockenbach,Gorxheimertal,480609.00,5486499.94,not detected,f
+1249,151,33,14,a,Ober-Abtsteinach,Heppenheim,Hessen,j,j,j,j,NA,not detected,Ober-Abtsteinach,Abtsteinach,484512.97,5487904.07,not detected,f
+1250,151,33,14,bo,Siedelsbrunn,Heppenheim,Hessen,j,j,j,j,NA,not detected,Siedelsbrunn,Wald-Michelbach,486299.01,5488545.47,not detected,f
+1252,151,33,22,b,Oberflockenbach,AB. Weinheim,Baden,j,NA,j,j,NA,not detected,Oberflockenbach,Weinheim,480532.53,5484075.48,not detected,f
+1265,151,36,19,a,Unterneudorf,AB. Buchen,Baden,j,NA,NA,NA,NA,not detected,Unterneudorf,Buchen,519837.22,5486227.03,not detected,f
+1267,151,36,23,d,Oberneudorf,AB. Buchen,Baden,j,j,j,j,NA,not detected,Oberneudorf,Buchen,519364.84,5483109.55,not detected,f
+1268,151,36,24,a,Hollerbach,AB. Buchen,Baden,j,NA,NA,NA,NA,not detected,Hollerbach,Buchen,520545.87,5484383.72,not detected,f
+1269,Handschriftliche Ergänzungen:,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,not detected,NA,,,,not detected,n
+1271,138,33,8,du,,NA,NA,NA,NA,NA,NA,NA,not detected,unklarer Ort,,,,not detected,n
+1272,111,14,6,co,Affinghausen,Brilon,Westfalen,j,j,j,j,NA,not detected,Assinghausen,Olsberg,465475.88,5684067.59,not detected,f
+1273,111,14,9,bu,Schwalefeld,des Eisenbergs,Hessen-Nassau,j,j,j,j,NA,not detected,Schwalefeld,Willingen,474203.87,5684019.75,not detected,f
+1274,111,14,10,al,Rattlar,des Eisenbergs,Hessen-Nassau,NA,NA,j,j,NA,not detected,Rattlar,Willingen,475371.11,5684463.27,not detected,f
+1275,111,14,11,co,Wiemeringhausen,Brilon,Westfalen,j,j,j,j,NA,not detected,Wiemeringhausen,Olsberg,465366.86,5682319.07,not detected,f
+1276,111,14,21,b,Niedersfeld,Brilon,Westfalen,j,j,j,j,NA,not detected,Niedersfeld,Winterberg,467321.69,5678629.08,not detected,f
+1277,111,14,25,c,Titmaringhausen,Brilon,Westfalen,j,j,j,j,NA,not detected,Titmaringhausen,Medebach,475795.45,5678062.26,not detected,f
+1278,111,15,1,bo,Ottlar,des Eisenbergs,Hessen-Nassau,j,j,j,j,NA,not detected,Ottlar,Diemelsee,479040.05,5686764.96,not detected,f
+1279,111,15,5,a,Flechtdorf,des Eisenbergs,Hessen-Nassau,NA,j,j,j,NA,not detected,Flechtdorf,Diemelsee,487833.28,5686158.08,not detected,f
+1280,111,15,6,dr,Eimelrod,des Eisenbergs,Hessen-Nassau,j,j,j,j,NA,not detected,Eimelrod,Willingen,479116.90,5683414.17,not detected,f
+1281,111,15,8,a,Schweinsbühl,des Eisenbergs,Hessen-Nassau,j,j,j,j,NA,not detected,Schweinsbühl,Diemelsee,482353.94,5684446.91,not detected,f
+1282,111,15,14,co,Rhena,des Eisenbergs,Hessen-Nassau,j,j,j,j,NA,not detected,Rhena,Korbach,485464.18,5682007.87,not detected,f
+1283,111,15,17,do,Welleringhausen,des Eisenbergs,Hessen-Nassau,j,j,j,j,NA,not detected,Welleringhausen,Willingen,481372.07,5680163.48,not detected,f
+1284,111,15,21,b,Düdinghausen,Brilon,Westfalen,j,j,j,j,NA,not detected,Düdinghausen,Medebach,478575.98,5678930.31,not detected,f
+1285,111,16,7,br,Berndorf,des Eisenbergs,Hessen-Nassau,j,j,j,j,NA,not detected,Berndorf,Twistetal,493336.31,5683937.39,not detected,f
+1286,111,16,9,d,Ober Waroldern,der Twiste,Hessen-Nassau,j,NA,NA,NA,NA,not detected,Ober-Waroldern,Twistetal,497783.35,5683609.41,not detected,f
+1287,111,16,24,cl,Meineringhausen,des Eisenbergs,Hessen-Nassau,,j,j,j,NA,not detected,Meineringhausen,Korbach,495577.04,5678376.66,not detected,f
+1288,111,17,2,bd,Volkhardinghausen,der Twiste,Hessen-Nassau,j,j,j,j,NA,not detected,Volkhardinghausen,Bad Arolsen,503898.95,5685976.29,not detected,f
+1289,111,17,3,du,Bühle,der Twiste,Hessen-Nassau,NA,j,NA,NA,NA,not detected,Bühle,Bad Arolsen,507606.30,5685225.28,not detected,f
+1290,111,17,6,au,Nieder Waroldern,der Twiste,Hessen-Nassau,NA,j,j,j,NA,not detected,Nieder-Waroldern,Twistetal,500631.77,5683992.47,not detected,f
+1291,111,17,17,b,Freienhagen,der Eder,Hessen-Nassau,j,j,j,j,NA,not detected,Freienhagen,Waldeck,504427.43,5680734.97,not detected,f
+1292,111,17,19,br,Ippinghausen,Wolfhagen,Hessen-Nassau,NA,j,NA,NA,NA,not detected,Ippinghausen,Wolfhagen,510074.59,5681213.25,not detected,f
+1293,111,18,1,a,Wolfhagen,Wolfhagen,Hessen-Nassau,NA,j,j,j,NA,not detected,Wolfhagen,Kassel,511920.37,5686144.21,not detected,f
+1294,111,18,3,br,Burghasungen,Wolfhagen,Hessen-Nassau,NA,NA,j,NA,NA,not detected,Burghasungen,Zierenberg,519354.68,5685795.97,not detected,f
+1295,111,18,7,d,Istha,Wolfhagen,Hessen-Nassau,j,j,j,j,NA,not detected,Istha,Wolfhagen,516022.96,5683710.03,not detected,f
+1296,111,18,17,dr,Balhorn,Wolfhagen,Hessen-Nassau,j,NA,NA,NA,NA,not detected,Balhorn,Bad Emstal,516687.02,5680178.00,not detected,f
+1297,111,18,25,al,Elmshagen,Kassel,Hessen-Nassau,j,NA,NA,NA,NA,not detected,Elmshagen,Schauenburg,522422.20,5678957.42,not detected,f
