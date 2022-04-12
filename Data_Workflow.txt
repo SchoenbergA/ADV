@@ -1,0 +1,77 @@
+### Data Workflow
+
+### automated runs ###
+
+# Original Data
+
+-> ADV
+	ADV_Ortstabelle_Hessen.xlsx (original data)
+
+-> Wenker Places
+	alle_wenkerorte.txt
+
+### Level 0 - first run automated matching
+	using ADV_Ortstabelle_Hessen.xlsx 
+	results not saved -.-
+	visual validation shows that some names in ADV differ to todays names.
+
+# modify org data
+
+-> 002_corrected_names.xlsx (from Heiko Kammers)
+	add corrected names for all "not detected" in first run
+	But is only those names (not full table)
+	! first run did not use "no unique names" case detection.
+	! may be some more or less names would have been corrected?
+
+-> 003_ADV_final_clean.csv
+	add ADV_corrected.xlsx to all entries which are else than "not detected" in first run
+	for "ortsamne" using corrected names, all other keep name. 
+	Add column for "old_names" (if has been corrected)
+
+### Level 1 - second run with cleaned dataset (new names)
+-> Second run automated detection
+	-> ADV_automatch_level_1.csv
+	-> ADV_Points_level_1.shp
+	added new feture to detect "no unique names" for the case ADV names occure more than 1 times	
+
+	result: still some points "not detected" as well as "multiple entires" and "no unqiue names" (multiple names in ADV)
+
+### Level 2 - handsome clean up and detection
+
+
+-> corrections_ADV_level_1.csv
+	add tag for "false detected" (if sector validation didnt match)
+	add coordinates for multiple entires detected and no unique names (Manuel Oed)
+	! missing header and UniCode Problems
+
+-> ADV_level_1_corrections_clean.csv
+	corrected header (mod in excel (Andreas Schönberg))
+
+
+ADV_level_2.csv
+	merged ADV_level_1_corrections_clean.csv and ADV_automatch_level_1.csv
+
+### Level 3 - not detected and new entries (Kammers)
+
+not_detected_Kammers.ods
+	ods format causes problems in R
+
+ADV_Level_1_not_detected.csv
+	delete empty rows (between not detected found and the added nerw entries)
+	added IDs for new entries (starting with 1271+1) (max ADV+1)
+
+	merge ADV_Level_1_not_detected.csv with ADV_level_2.csv
+	drop all "not deteced" entries. Add all from new table including new added (not formal "Not detected")
+
+### Level 4 - Final Table
+
+	-> ADV_level_3 Aktuell.csv - Added Coordinates to ADV_level_3.csv for all still not found (in LVL3) by Heiko
+	again version / system issues
+	
+	Handsome assigning new coordinates to  ADV_level_3.csv
+	-> ADV_level_3 Aktuell.csv is sorted by coordinates (so 999 is up)
+	-> same sorting for ADV_level_3.csv in Ecxel
+	-> copy paste coordinates and add tag "found"
+
+	Result: ADV_level_3_add_test.csv
+	!!! warning: to visual detect points in very close neigborhood use Mapview in R or for Qgis the option "blending mode featzure multiply"
