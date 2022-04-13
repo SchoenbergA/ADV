@@ -75,3 +75,6 @@ ADV_Level_1_not_detected.csv
 
 	Result: ADV_level_3_add_test.csv
 	!!! warning: to visual detect points in very close neigborhood use Mapview in R or for Qgis the option "blending mode featzure multiply"
+
+Handsome correction: directly chnaging coorinates in Excel with tag "handsome corrected"
+1 eintire change in kreis and extra wetterau to odenwald
